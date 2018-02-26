@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/rkdgusrnrlrl/koa-json-api/issues"
   },
-  "homepage": "https://github.com/rkdgusrnrlrl/koa-json-api#readme"
+  "homepage": "https://github.com/rkdgusrnrlrl/koa-json-api#readme",
+  "dependencies": {
+    "jsonapi-serializer": "^3.5.6",
+    "koa": "^2.5.0"
+  }
 }
